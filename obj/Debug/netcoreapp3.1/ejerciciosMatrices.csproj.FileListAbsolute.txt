@@ -1,0 +1,13 @@
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\bin\Debug\netcoreapp3.1\ejerciciosMatrices.exe
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\bin\Debug\netcoreapp3.1\ejerciciosMatrices.deps.json
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\bin\Debug\netcoreapp3.1\ejerciciosMatrices.runtimeconfig.json
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\bin\Debug\netcoreapp3.1\ejerciciosMatrices.runtimeconfig.dev.json
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\bin\Debug\netcoreapp3.1\ejerciciosMatrices.dll
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\bin\Debug\netcoreapp3.1\ejerciciosMatrices.pdb
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.csprojAssemblyReference.cache
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.AssemblyInfoInputs.cache
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.AssemblyInfo.cs
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.dll
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.pdb
+C:\Users\Propietario\Desktop\1DAM\ejerciciosMatrices\obj\Debug\netcoreapp3.1\ejerciciosMatrices.genruntimeconfig.cache
